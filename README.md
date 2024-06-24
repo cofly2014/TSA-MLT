@@ -3,7 +3,8 @@
 ## Frame work of the paper
 ![img.png](img.png)
 [Paper] (https://arxiv.org/abs/2307.01985)
-        This paper has been accepted by Neurocomputing.(https://doi.org/10.1016/j.neucom.2024.128044)
+        
+This paper has been accepted by Neurocomputing.(https://doi.org/10.1016/j.neucom.2024.128044)
 
 This repo contains code for the method introduced in the paper:
 (https://github.com/cofly2014/TSA-MLT)
